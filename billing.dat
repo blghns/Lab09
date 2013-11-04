@@ -1,0 +1,50 @@
+Johnson, Lindon
+hours.........................13.0
+regular hours.................13.0
+regular bill................7000.00
+overload hours.................0.0
+overload bill..................0.00
+underload hours................0.0
+underload bill.................0.00
+total bill..................7000.00
+----------------------------------
+Adams, John
+hours..........................8.0
+regular hours..................0.0
+regular bill...................0.00
+overload hours.................0.0
+overload bill..................0.00
+underload hours................8.0
+underload bill..............3600.00
+total bill..................3600.00
+----------------------------------
+Carter, James
+hours.........................18.0
+regular hours.................18.0
+regular bill................7000.00
+overload hours.................0.0
+overload bill..................0.00
+underload hours................0.0
+underload bill.................0.00
+total bill..................7000.00
+----------------------------------
+DeGaulle, Charles
+hours.........................22.0
+regular hours.................20.0
+regular bill................7000.00
+overload hours.................2.0
+overload bill................800.00
+underload hours................0.0
+underload bill.................0.00
+total bill..................7800.00
+----------------------------------
+Kohl, Helmut
+hours.........................15.0
+regular hours.................15.0
+regular bill................7000.00
+overload hours.................2.0
+overload bill..................0.00
+underload hours................0.0
+underload bill.................0.00
+total bill..................7000.00
+----------------------------------
