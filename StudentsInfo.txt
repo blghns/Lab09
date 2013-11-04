@@ -1,0 +1,3 @@
+Smith Alice 15
+Jones Fred 10
+Wang Phil 20
